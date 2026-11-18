@@ -57,3 +57,25 @@ A base de dados possui caráter fictício e foi organizada para fins de estudo e
 Natan Namur
 
 Projeto desenvolvido para fins de aprendizado e composição de portfólio profissional.
+
+---
+
+## 🖥️ Visualização do Dashboard
+
+### Capa do projeto
+![Capa](<01-Navegação.png>)
+
+### 1. Visão Geral
+![Início](<02-Início.png>)
+
+### 2. Bilheteria
+![Bilheteria](<03-Bilheteria.png>)
+
+### 3. Catálogo
+![Catálogo](<04-Catálogo.png>)
+
+### 4. Mercados Globais
+![Mercados Globais](<05-Mercados Globais.png>)
+
+### 5. Elenco & Estrelas
+![Elenco e Estrelas](<06-Elenco e Estrelas.png>)
