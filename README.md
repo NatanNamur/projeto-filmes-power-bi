@@ -11,7 +11,7 @@ O relatório foi desenvolvido como projeto de análise de dados, envolvendo trat
 - US$ 298,61 bilhões em bilheteria mundial (conforme a base do projeto).
 - US$ 15,98 bilhões em orçamento total.
 - 278 associações entre filmes e protagonistas.
-- 192 protagonistas distintos.
+- 191 protagonistas distintos.
 
 ## 🛠️ Ferramentas utilizadas
 
